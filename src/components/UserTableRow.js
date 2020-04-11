@@ -10,7 +10,7 @@ class UserTableRow extends Component {
       <Table.Row>
         <Table.Cell className= "center aligned"> <img src={ user.picture.thumbnail } alt= "user-face" /> </Table.Cell>
         <Table.Cell>
-          {user.name.first} {user.name.last}
+          {user.name}
         </Table.Cell>
         <Table.Cell>{user.phone}</Table.Cell>
         <Table.Cell>{user.email}</Table.Cell>

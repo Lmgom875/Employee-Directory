@@ -6,33 +6,15 @@ import { Table, } from "semantic-ui-react";
 import UserTableRow from "./UserTableRow";
 
 //!Import database
-import users from "../DataBase/users.json";
+//import users from "../DataBase/users.json";
 
 class UsersTableBody extends Component {
 
-//todo Ask: Is constructor and super ids needed for uses state in a child component?
-constructor() {
-  super();
-  this.state = {
-    users: [],
-  };
-}
-
-componentDidMount() {
-  this.getUsers();
-}
-
-getUsers() {
-  //console.log(users);
-  this.setState({ users });
-}
-
-
     render() {
-      const { users } = this.state;
+      const props = this.props;
         return (
             <Table.Body>
-              {users.map(user => <UserTableRow key={ user.id } user={ user } />)}
+              {props.user.map(user => <UserTableRow key={ user.id } user={ user } />)}
           </Table.Body> 
         )
     }

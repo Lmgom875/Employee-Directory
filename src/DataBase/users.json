@@ -1,10 +1,6 @@
 [
     {
-    "name": {
-    "title": "Mr",
-    "first": "David",
-    "last": "Wright"
-    },
+    "name": "David Wright",
     "id": 1,
     "email": "david.wright@example.com",
     "dob": {
@@ -19,11 +15,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Riley",
-    "last": "Graves"
-    },
+    "name": "Riley Graves",
     "id": 2,
     "email": "riley.graves@example.com",
     "dob": {
@@ -38,11 +30,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mrs",
-    "first": "Sophia",
-    "last": "King"
-    },
+    "name": "Sophia King",
     "id": 3,
     "email": "sophia.king@example.com",
     "dob": {
@@ -57,11 +45,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Olivier",
-    "last": "Grewal"
-    },
+    "name": "Olivier Grewal",
     "id": 4,
     "email": "olivier.grewal@example.com",
     "dob": {
@@ -76,11 +60,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Valdemar",
-    "last": "Jørgensen"
-    },
+    "name": "Valdemar Jørgensen",
     "id": 5,
     "email": "valdemar.jorgensen@example.com",
     "dob": {
@@ -95,11 +75,7 @@
     }
     },
     {
-    "name": {
-    "title": "Madame",
-    "first": "Ingrid",
-    "last": "Picard"
-    },
+    "name": "Ingrid Picard",
     "id": 6,
     "email": "ingrid.picard@example.com",
     "dob": {
@@ -114,11 +90,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Reginald",
-    "last": "Campbell"
-    },
+    "name": "Reginald Campbell",
     "id": 7,
     "email": "reginald.campbell@example.com",
     "dob": {
@@ -133,11 +105,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Warren",
-    "last": "Ford"
-    },
+    "name": "Warren Ford",
     "id": 8,
     "email": "warren.ford@example.com",
     "dob": {
@@ -152,11 +120,7 @@
     }
     },
     {
-    "name": {
-    "title": "Miss",
-    "first": "Sofia",
-    "last": "Kauppila"
-    },
+    "name": "Sofia Kauppila",
     "id": 9,
     "email": "sofia.kauppila@example.com",
     "dob": {
@@ -171,11 +135,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mrs",
-    "first": "Saribel",
-    "last": "Gomez"
-    },
+    "name": "Saribel Gomez",
     "id": 10,
     "email": "gzl.sltnynjd@example.com",
     "dob": {
@@ -190,11 +150,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Fabien",
-    "last": "Bourgeois"
-    },
+    "name": "Fabien Bourgeois",
     "id": 11,
     "email": "fabien.bourgeois@example.com",
     "dob": {
@@ -209,11 +165,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Akseli",
-    "last": "Peltola"
-    },
+    "name": "Akseli Peltola",
     "id": 12,
     "email": "akseli.peltola@example.com",
     "dob": {
@@ -228,11 +180,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mrs",
-    "first": "Selma",
-    "last": "Kristensen"
-    },
+    "name": "Selma Kristensen",
     "id": 13,
     "email": "selma.kristensen@example.com",
     "dob": {
@@ -247,11 +195,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mrs",
-    "first": "Mary",
-    "last": "Walker"
-    },
+    "name": "Mary Walker",
     "id": 14,
     "email": "mary.walker@example.com",
     "dob": {
@@ -266,11 +210,7 @@
     }
     },
     {
-    "name": {
-    "title": "Mr",
-    "first": "Logan",
-    "last": "Reyes"
-    },
+    "name": "Logan Reyes",
     "id": 15,
     "email": "logan.reyes@example.com",
     "dob": {

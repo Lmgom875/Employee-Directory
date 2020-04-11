@@ -1,0 +1,287 @@
+[
+    {
+    "name": {
+    "title": "Mr",
+    "first": "David",
+    "last": "Wright"
+    },
+    "id": 1,
+    "email": "david.wright@example.com",
+    "dob": {
+    "date": "05/24/1946",
+    "age": 74
+    },
+    "phone": "(374)-304-6226",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/62.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Riley",
+    "last": "Graves"
+    },
+    "id": 2,
+    "email": "riley.graves@example.com",
+    "dob": {
+    "date": "02/17/1997",
+    "age": 23
+    },
+    "phone": "016973 67768",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mrs",
+    "first": "Sophia",
+    "last": "King"
+    },
+    "id": 3,
+    "email": "sophia.king@example.com",
+    "dob": {
+    "date": "09/26/1996",
+    "age": 24
+    },
+    "phone": "(403)-915-7281",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Olivier",
+    "last": "Grewal"
+    },
+    "id": 4,
+    "email": "olivier.grewal@example.com",
+    "dob": {
+    "date": "12/02/1997",
+    "age": 23
+    },
+    "phone": "031-754-5511",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Valdemar",
+    "last": "Jørgensen"
+    },
+    "id": 5,
+    "email": "valdemar.jorgensen@example.com",
+    "dob": {
+    "date": "08/25/1982",
+    "age": 38
+    },
+    "phone": "79904807",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Madame",
+    "first": "Ingrid",
+    "last": "Picard"
+    },
+    "id": 6,
+    "email": "ingrid.picard@example.com",
+    "dob": {
+    "date": "11/20/1950",
+    "age": 70
+    },
+    "phone": "077 237 66 89",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Reginald",
+    "last": "Campbell"
+    },
+    "id": 7,
+    "email": "reginald.campbell@example.com",
+    "dob": {
+    "date": "03/22/1959",
+    "age": 61
+    },
+    "phone": "00-9723-7274",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/25.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Warren",
+    "last": "Ford"
+    },
+    "id": 8,
+    "email": "warren.ford@example.com",
+    "dob": {
+    "date": "06/26/1986",
+    "age": 34
+    },
+    "phone": "07-5103-2028",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Miss",
+    "first": "Sofia",
+    "last": "Kauppila"
+    },
+    "id": 9,
+    "email": "sofia.kauppila@example.com",
+    "dob": {
+    "date": "12/18/1958",
+    "age": 62
+    },
+    "phone": "07-146-557",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mrs",
+    "first": "Saribel",
+    "last": "Gomez"
+    },
+    "id": 10,
+    "email": "gzl.sltnynjd@example.com",
+    "dob": {
+    "date": "08/20/1991",
+    "age": 29
+    },
+    "phone": "050-07362805",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Fabien",
+    "last": "Bourgeois"
+    },
+    "id": 11,
+    "email": "fabien.bourgeois@example.com",
+    "dob": {
+    "date": "12/16/1949",
+    "age": 71
+    },
+    "phone": "04-27-58-09-78",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Akseli",
+    "last": "Peltola"
+    },
+    "id": 12,
+    "email": "akseli.peltola@example.com",
+    "dob": {
+    "date": "07/03/1985",
+    "age": 35
+    },
+    "phone": "07-615-886",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mrs",
+    "first": "Selma",
+    "last": "Kristensen"
+    },
+    "id": 13,
+    "email": "selma.kristensen@example.com",
+    "dob": {
+    "date": "03/05/1995",
+    "age": 25
+    },
+    "phone": "88415515",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mrs",
+    "first": "Mary",
+    "last": "Walker"
+    },
+    "id": 14,
+    "email": "mary.walker@example.com",
+    "dob": {
+    "date": "04/08/1984",
+    "age": 36
+    },
+    "phone": "021-469-3336",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+    }
+    },
+    {
+    "name": {
+    "title": "Mr",
+    "first": "Logan",
+    "last": "Reyes"
+    },
+    "id": 15,
+    "email": "logan.reyes@example.com",
+    "dob": {
+    "date": "12/11/1947",
+    "age": 73
+    },
+    "phone": "071-682-2864",
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    }
+    }
+    ]

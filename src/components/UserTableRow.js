@@ -2,27 +2,21 @@
 import React, { Component } from "react";
 import { Table } from "semantic-ui-react";
 
-//!Import component
 
 class UserTableRow extends Component {
   render() {
+    const { user } = this.props;
     return (
       <Table.Row>
-        <Table.Cell>Foto</Table.Cell>
-        <Table.Cell>Luis Gomez</Table.Cell>
-        <Table.Cell>860-518-2298</Table.Cell>
-        <Table.Cell>lmgom875@gmail.com</Table.Cell>
-        <Table.Cell>10/20/1976</Table.Cell>
+        <Table.Cell className= "center aligned"> <img src={ user.picture.thumbnail } alt= "user-face" /> </Table.Cell>
+        <Table.Cell>
+          {user.name.first} {user.name.last}
+        </Table.Cell>
+        <Table.Cell>{user.phone}</Table.Cell>
+        <Table.Cell>{user.email}</Table.Cell>
+        <Table.Cell>{user.dob.date}</Table.Cell>
       </Table.Row>
-
-     /* { {_.map(data, ({ age, gender, name }) => (
-              <Table.Row key={name}>
-                <Table.Cell>{name}</Table.Cell>
-                <Table.Cell>{age}</Table.Cell>
-                <Table.Cell>{gender}</Table.Cell>
-              </Table.Row>
-            ))} }*/
-    )
+    );
   }
 }
 

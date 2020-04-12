@@ -8,8 +8,9 @@ import users from "../DataBase/users.json";
 //! Import component
 import UsersTableHeader from "./UsersTableHeader";
 import UsersTableBody from "./UsersTableBody";
-class UsersTable extends Component {
+import SearchBar from "./SearchBar";
 
+class UsersTable extends Component {
   //todo Ask: Is constructor and super ids needed for uses state in a child component?
   constructor() {
     super();
@@ -28,35 +29,37 @@ class UsersTable extends Component {
     this.setState({ users });
   }
 
-
-
   handleSort = () => () => {
-    const { direction } = this.state
-    
+    const { direction } = this.state;
+
     if (direction !== "ascending") {
-      const usersAlpha = users.sort((a, b) => a.name !== b.name ? a.name < b.name ? -1 : 1 :0);
+      const usersAlpha = users.sort((a, b) =>
+        a.name !== b.name ? (a.name < b.name ? -1 : 1) : 0
+      );
       this.setState({
         users: usersAlpha,
         direction: "ascending",
-      })
+      });
 
-      return
+      return;
     }
 
     this.setState({
       users: users.reverse(),
       direction: "descending",
-    })
-   }
-
+    });
+  };
 
   render() {
     const usersState = this.state;
     return (
-      <Table sortable celled fixed>
-        <UsersTableHeader user={ usersState }  handleSort={ this.handleSort }/>
-        <UsersTableBody user= { users }/>
-      </Table>
+      <div>
+        <SearchBar user={usersState} />
+        <Table sortable celled fixed>
+          <UsersTableHeader user={usersState} handleSort={this.handleSort} />
+          <UsersTableBody user={users} />
+        </Table>
+      </div>
     );
   }
 }

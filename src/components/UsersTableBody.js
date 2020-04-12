@@ -5,8 +5,7 @@ import { Table, } from "semantic-ui-react";
 //! Import component
 import UserTableRow from "./UserTableRow";
 
-//!Import database
-//import users from "../DataBase/users.json";
+
 
 class UsersTableBody extends Component {
 
